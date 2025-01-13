@@ -246,8 +246,11 @@ export default function Home({ articles }) {
         <div className="flex flex-col lg:flex-row gap-x-12 gap-y-8 lg:gap-y-0">
           <div className="max-w-2xl text-lg flex-auto">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              Open Source Savant, Cybersecurity Crusader, and Code Connoisseur
+				Abhi Sareen
             </h1>
+			<h2 className="text-2xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-2xl">
+              Open Source Savant, Cybersecurity Crusader, and Code Connoisseur
+			</h2>
             <p className="mt-6 prose dark:prose-invert">
               Hi, I&apos;m Abhi! For me, programming is not just a profession; it&apos;s a conversation with the future. A Computer Science student by day, and an open-source contributor by night, I find joy in bringing ideas to life through code.
             </p>
